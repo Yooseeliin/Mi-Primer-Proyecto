@@ -1,0 +1,14 @@
+Primero que nada un navegador es un programa de software instalado en un ordenador o dispositivo movil 
+o bien cualquier otro dispositivo con acceso a internet mientras que el buscador es un es igual un programa de software pero este tiene Cla funcion de buscar cosas o información 
+mediante palabras clave y asi busca coincidencias hasta encontrar lo que estas buscando realmente.
+Unos ejemplos de Navegador son 
+- Opera
+- Mozilla Firefox 
+- Google Chrome 
+- Edge 
+- Internet Explorer 
+Mientras que unos ejemplos de buscadores son 
+- Yahoo 
+- Bing 
+- Google Academic 
+- Googlee

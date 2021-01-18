@@ -1,0 +1,13 @@
+Mientras que Windows es el sistema operativo con mayor presencia en los ordenadores de todo el mundo, cada vez son más los usuarios que comienzan a dar una oportunidad a Linux. Un sistema operativo que a pesar de su gran importancia en ciertos ámbitos, es el más desconocido a nivel de escritorio. Si estás interesado en este sistema, mostramos a continuación qué es Linux, historia, principales características y distribuciones.
+
+Para empezar, es importante saber que Linux es un sistema operativo diseñado para aprovechar al máximo las capacidades de cualquier ordenador y que cuenta con características muy interesantes como el multiprocesamiento, multitarea y multiusuario. Para empezar a conocer un poquito más el origen de Linux, vamos a hacer un repaso general de su historia.
+
+Un poco de historia
+Aunque la historia de Linux se comienza a escribir un poco más tarde, sus orígenes nos hacen remontar hasta principios de los años 80, cuando Richard Stallman, inició el Proyecto GNU con el propósito de crear un sistema operativo similar y compatible con UNIX. En el año 1985, se creó la Fundación del Software Libre y se desarrolló la Licencia pública general de GNU para tener un marco legal que permitiera difundir libremente este software.
+
+Posteriormente, en 1991, fue Linus Torvalds, un estudiante de informática de 23 años de la Universidad de Helsinki, quien propone hacer un sistema operativo que se comporte como UNIX pero que además, funcione sobre cualquier ordenador. En este momento, el propio Torvalds estableció como requisito mínimo que el ordenador tuviera un procesador i386.
+
+Qué es Linux y principales características
+Linux es un sistema operativo completamente libre y por lo tanto, gratuito. Un producto que a diferencia de Windows o macOS no es propiedad de una compañía, de ahí su gratuidad, sino de un gran número de compañías o personas que contribuyen con su desarrollo y van creando sus propias distribuciones Linux.
+
+En definitiva, Linux es un sistema que nace de la combinación de varios proyectos entre los que destacan GNU y la Free Software Foundation además del propio núcleo de Linux encabezado por Linus Torvalds. Su desarrollo es uno de los mejores ejemplos del software libre, donde todo su código fuente puede ser utilizado, modificado y distribuido libremente por cualquier bajo los términos de la licencia GPL o Licencia Pública General de GNU y otras licencias.

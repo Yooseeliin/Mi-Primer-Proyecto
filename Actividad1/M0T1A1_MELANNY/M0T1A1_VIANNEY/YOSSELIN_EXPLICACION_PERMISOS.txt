@@ -1,0 +1,12 @@
+RWX
+R=Read/Leer (Tiene un valor de 4) 
+W=Write/Escribir (Tiene un valor de 2)
+X=Execute/Ejecutar (Tiene un valor de 1) 
+Los permisos se ven de esta manera RWXRWXRWX cuando tienen todos los permisos.
+Las primeras RWX, son para darle permisos al propietario, si tiene las tres letras quiere decir que 
+el propietario va a tener todos los permisos.
+Las siguientes RWX son las que nos dan permisos a los grupos.
+Las ultimas RWX son las que muestran los permisos que tienen el resto de los usuarios. 
+Los permisos se utilizan para prohibir a ciertas personas lo que no quieres que vean, por ejemplo 
+si llegas a hacer alguna carpeta, archivo o imagen etc. y quieres que solo puedas verla tu y nadie mas solo le das 
+los permisos al propietario y asi si alguien mas quisiera entrar a revisar o verlos no podria porque no tiene permisos.

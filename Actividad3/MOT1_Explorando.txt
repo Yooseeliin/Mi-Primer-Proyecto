@@ -1,0 +1,1 @@
+No me permitia el acceso desde el navegador incognito por que era privado y ese te quita los permisos de acceso porque es mas seguro.
